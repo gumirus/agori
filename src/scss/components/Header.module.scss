@@ -1,0 +1,66 @@
+.headerWrapper {
+  padding: 2.5rem 0 3.12rem 0;
+  border-bottom: 1px solid #f7f7f7;
+  .header {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1240px;
+    width: 100%;
+    margin: 0 auto;
+    &Logo { 
+      &Link {
+
+        h3 {
+          font-family: 'Proxoma Nova'; 
+          font-weight: 800;
+          font-size: 1rem; 
+          letter-spacing: 0.01em;
+          text-transform: uppercase;
+          color:#5a00e6;
+          span {
+              color: #FF0064;
+            }
+        }
+        span {
+          font-family: 'Proxoma Nova';
+          font-style: normal;
+          font-weight: 400;
+          font-size: 1rem;
+          color: #7B7B7B;
+        }
+      }
+    }
+    .cartWrapper {
+      padding: 0.938rem 1.438rem;
+      background:#FF0064;
+      border-radius: 30px;
+      display: flex;
+      align-items: center;
+      gap: 0.813rem;
+      .cartPrice {
+        font-family: 'Proxoma Nova';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 1rem;
+        color:#FFFFFF;
+        letter-spacing: .9px;
+      }
+      .cartBorder {
+        width: 1px;
+        height: 25px;
+        background: rgba(255, 255, 255, 0.25);
+      }
+      .cartBasket {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        span {
+          font-family: 'Proxoma Nova';
+          font-weight: 700;
+          font-size: 1rem;
+          color: #FFFFFF;
+        }
+      }
+    }
+  } 
+}
