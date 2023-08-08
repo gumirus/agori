@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/agori/static/css/main.0a67a998.css",
-    "main.js": "/agori/static/js/main.a4db13ca.js",
+    "main.css": "/agori/static/css/main.b33cca4a.css",
+    "main.js": "/agori/static/js/main.9c15eea3.js",
     "index.html": "/agori/index.html",
-    "main.0a67a998.css.map": "/agori/static/css/main.0a67a998.css.map",
-    "main.a4db13ca.js.map": "/agori/static/js/main.a4db13ca.js.map"
+    "main.b33cca4a.css.map": "/agori/static/css/main.b33cca4a.css.map",
+    "main.9c15eea3.js.map": "/agori/static/js/main.9c15eea3.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a67a998.css",
-    "static/js/main.a4db13ca.js"
+    "static/css/main.b33cca4a.css",
+    "static/js/main.9c15eea3.js"
   ]
 }
