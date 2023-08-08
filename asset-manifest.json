@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/agori/static/css/main.0a67a998.css",
+    "main.js": "/agori/static/js/main.b904a56d.js",
+    "index.html": "/agori/index.html",
+    "main.0a67a998.css.map": "/agori/static/css/main.0a67a998.css.map",
+    "main.b904a56d.js.map": "/agori/static/js/main.b904a56d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a67a998.css",
+    "static/js/main.b904a56d.js"
+  ]
+}
