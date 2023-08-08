@@ -9,7 +9,7 @@ const Header = () => {
             <h3>
               <span>αγόρι</span> κουμίρος
             </h3>
-            <span>заказать футболку с дизайном</span>
+            <span>интернет магазин</span>
           </a>
         </div>
         <a href='/' className={styles.cartWrapper}>
